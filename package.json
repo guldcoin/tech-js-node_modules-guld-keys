@@ -1,6 +1,6 @@
 {
   "name": "guld-keys",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Guld primary keyring manager, compatible with standard Unix password store in JS.",
   "main": "index.js",
   "bin": {
